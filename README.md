@@ -45,5 +45,14 @@ Nginx
 
 
 
+Output:-
+------------
+
+![Go-app](https://github.com/user-attachments/assets/b6b9ea4c-cb20-4874-8466-7c4b15d79436)
+
+
+
+
+
 
 
