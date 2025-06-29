@@ -16,6 +16,19 @@
 │ └── Dockerfile
 └── README.md
 
+
+Clone the repository:
+
+git clone <github-repo-url>
+cd tanmaya_DPDzero_project
+
+
+Build and start all services:
+
+docker-compose up --build -d
+
+
+
 Access the Services:-
 ----------------------------
 Open your browser and visit:
